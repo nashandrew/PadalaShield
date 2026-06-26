@@ -185,3 +185,14 @@ stellar contract invoke \
 ## License
 
 MIT © 2026 PadalaShield Contributors
+
+## Deployed Contract
+
+| Field | Value |
+|-------|-------|
+| Contract ID | `CCUOWACSDEVNN3MNXSG2VAFVBOYO7T6SY5MMRHAGNPH2PH6T25HKPT75` |
+| Network | testnet |
+| Explorer | [View on stellar.expert](https://stellar.expert/explorer/testnet/contract/CCUOWACSDEVNN3MNXSG2VAFVBOYO7T6SY5MMRHAGNPH2PH6T25HKPT75) |
+| Deploy Tx | [View transaction](https://stellar.expert/explorer/testnet/tx/208bc66629b13a3c8928bfdb155f5abf1dd2284a7b083d2b243ba23490a645e7) |
+| Deployed | 2026-06-26 07:37:55 UTC |
+| Wallet | freighter (`GBAO…34AJ`) |
